@@ -63,7 +63,7 @@
 			<artifactId>lateragent</artifactId>
 			<version>1.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/LaterAgent-Bungee.jar</systemPath>
+			<systemPath>${basedir}/lib/LaterAgent-Bungee-Linux.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>
