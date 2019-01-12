@@ -4,7 +4,6 @@
 *.ipr
 *.iws
 *.log
-*.jar
 *.war
 *.ear
 .cache
